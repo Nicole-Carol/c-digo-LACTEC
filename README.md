@@ -22,6 +22,7 @@ Sensor: DHT22
 Plataforma IoT	ThingSpeak
 Conexão	Wi-Fi
 Linguagem de Programação	C/C++ 
+
 🔌 Funcionamento
 
 Ao ser ligado, o microprocessador realiza a conexão com o Wi-Fi configurado.
