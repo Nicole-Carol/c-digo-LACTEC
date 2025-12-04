@@ -17,11 +17,11 @@ O servidor utilizado para visualização e armazenamento das informações é o 
 
 🛠️ Componentes e Tecnologias Utilizadas
 Item	Descrição
-Microprocessador/Microcontrolador	ESP8266 / ESP32 (ou outro utilizado no projeto)
-Sensor	DHT11 / DHT22 (ajustar conforme o seu)
+Microprocessador/Microcontrolador:	ESP32
+Sensor: DHT22 
 Plataforma IoT	ThingSpeak
 Conexão	Wi-Fi
-Linguagem de Programação	C/C++ (Arduino IDE, por exemplo)
+Linguagem de Programação	C/C++ 
 🔌 Funcionamento
 
 Ao ser ligado, o microprocessador realiza a conexão com o Wi-Fi configurado.
