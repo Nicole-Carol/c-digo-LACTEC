@@ -50,3 +50,18 @@ Dashboard mais personalizado (ex.: Blynk, Grafana, Node-RED)
 📎 Objetivo Geral
 
 Criar uma solução IoT simples e eficiente para monitoramento ambiental contínuo, permitindo análises e tomada de decisão baseada em dados coletados em tempo real.
+
+---
+
+## 👥 Equipe
+
+Projeto desenvolvido como parte do curso na **UNIBRAS – Modelo de Documento para projetos**   
+Disciplina: Arquitetura e Organização de computadores
+Professor: Francismar Alves Martins Junior
+
+- Jonas Evangelista  
+- Nicole caroline 
+- kahuã Oliveira  
+- Patricía  
+
+
