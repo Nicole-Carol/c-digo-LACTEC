@@ -16,11 +16,17 @@ O servidor utilizado para visualização e armazenamento das informações é o 
 📊 Visualização dos dados em gráficos diretamente na plataforma
 
 🛠️ Componentes e Tecnologias Utilizadas
+
 Item	Descrição
+
 Microprocessador/Microcontrolador:	ESP32
+
 Sensor: DHT22 
+
 Plataforma IoT	ThingSpeak
+
 Conexão	Wi-Fi
+
 Linguagem de Programação	C/C++ 
 
 🔌 Funcionamento
